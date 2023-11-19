@@ -7,7 +7,7 @@ Paper title:
 VCTP: A Verifiable Credential-based Trust Propagation Protocol for Personal Issuers in Self-Sovereign Identity Platforms
 
 Link to the paper:
-https://ieeexplore......
+https://ieeexplore.ieee.org/document/10237034
 
 Group Number:
 16
