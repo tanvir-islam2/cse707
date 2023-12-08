@@ -1,5 +1,3 @@
-https://youtu.be/2QFrE9B6jGg
-
 Link to unlisted YouTube video:
 https://youtu.be/2QFrE9B6jGg
 
